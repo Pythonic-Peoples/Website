@@ -9,7 +9,7 @@
    background-image: url(https://html5book.ru/wp-content/uploads/2017/01/photo-roses.jpg);
    background-size: cover;
 }
-.transparent:before {
+.transparent:after {
    content: "";
    position: absolute;
    top: 0;
