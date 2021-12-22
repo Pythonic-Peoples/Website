@@ -11,7 +11,7 @@
     background: #fffdee;
     border: 10px solid transparent;
     border-image: 10 repeating-linear-gradient(135deg, #C42061, #C42061 10px, transparent 10px, transparent 20px, #FBCFDF 20px, #FBCFDF 30px, transparent 30px, transparent 40px);
-    font-family: 'Playfair Display';
+    font-family: 'Arial';
     color: #605756;
  }
  .form-row {
