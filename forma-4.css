@@ -32,7 +32,7 @@ body {
    position: absolute;
    width: 50px;
    height: 20px;
-   border-radius: 30px;
+   border-radius: 50px;
    background: red;
 }
 .form-left-decoration:before {
