@@ -74,7 +74,7 @@ body {
    color: #ffffff;
    font-size: 18px;
    text-transform: uppercase;
-   border-width: 0;
+   border-width: 1;
    border-radius: 20px;
    cursor: pointer;
    transition: .2s linear
