@@ -30,7 +30,7 @@
  .form-row textarea {
     background-attachment: local;
     background-repeat: repeat;
-    resize: none;
+    resize:10px;
  }
  .form-row input[type="submit"] {
     padding: 10px 20px;
