@@ -33,7 +33,7 @@ body {
    width: 50px;
    height: 20px;
    border-radius: 30px;
-   background: white;
+   background: red;
 }
 .form-left-decoration:before {
    top: -20px;
