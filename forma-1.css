@@ -11,14 +11,14 @@
  .stripes-block {
     position: relative;
     padding: 10px 10px 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background: repeating-linear-gradient(-30deg, #291810, #291810 8px, #FAAB1B 10px, #FAAB1B 14px);
  }
  .stripes-block:before {
     content: "";
     position: absolute;
     left: 50%;
-    top: 12px;
+    top: 22px;
     margin-left: -6px;
     width: 14px;
     height: 14px;
