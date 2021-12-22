@@ -25,7 +25,7 @@ body {
 }
 .form-right-decoration {
    top: 100px;
-   right: -30px;
+   right: -39px;
 }
 .form-left-decoration:before, .form-left-decoration:after, .form-right-decoration:before, .form-right-decoration:after {
    content: "";
