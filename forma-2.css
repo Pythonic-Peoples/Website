@@ -20,7 +20,7 @@
 .stripes-block:before {
   content: "";
   position: absolute;
-  left: 50%;
+  left: 60%;
   top: 8px;
   margin-left: -10px;
   width: 14px;
