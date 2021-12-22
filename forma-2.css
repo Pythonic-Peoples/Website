@@ -12,7 +12,7 @@
 }
 .stripes-block {
   position: relative;
-  padding: 15px;
+  padding: 55px;
   margin-bottom: 20px;
   background: repeating-linear-gradient(-45deg, #E4E3DF, #E4E3DF 5px, #909090 6px, #909090 8px);
   border-bottom: 2px solid #909090;
