@@ -46,10 +46,10 @@
   background: #E4E3DF;
 }
 .form-row textarea {
-  width: 100%;
+  width: 200%;
   margin-bottom:40px;
   padding: 0;
-  outline: 0;
+  outline: 10;
   line-height: 40px;
   background: transparent url(https://html5book.ru/wp-content/uploads/2016/12/bg-form.png) bottom left repeat-x;
   background-size: 8px 40px;
